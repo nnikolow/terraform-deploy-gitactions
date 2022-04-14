@@ -1,2 +1,2 @@
 environment = "prod"
-project     = "devops4solutions"
+project     = "terraform-github-actions-nn"
